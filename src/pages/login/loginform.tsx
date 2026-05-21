@@ -66,7 +66,7 @@ const LoginForm = () => {
             mb: 1,
           }}
         >
-          Sign In Hii
+          Sign In
         </Typography>
 
         <Typography
